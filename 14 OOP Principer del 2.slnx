@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
   <Project Path="01 Virtuell metod (Djur och Hund)/01 Virtuell metod (Djur och Hund).csproj" />
   <Project Path="02 Polymorfism med basklassreferens/02 Polymorfism med basklassreferens.csproj" />
   <Project Path="03 Array av polymorfa objekt/03 Array av polymorfa objekt.csproj" />
