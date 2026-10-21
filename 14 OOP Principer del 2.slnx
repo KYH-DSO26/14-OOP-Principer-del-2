@@ -4,4 +4,5 @@
   <Project Path="03 Array av polymorfa objekt/03 Array av polymorfa objekt.csproj" />
   <Project Path="04 Typkontroll och typomvandling (is och as)/04 Typkontroll och typomvandling (is och as).csproj" />
   <Project Path="05 Statisk polymorfism (Metodöverlagring)/05 Statisk polymorfism (Metodöverlagring).csproj" />
+  <Project Path="06 Verklig hierarki – Betalsystem (Betalning)/06 Verklig hierarki – Betalsystem (Betalning).csproj" />
 </Solution>
