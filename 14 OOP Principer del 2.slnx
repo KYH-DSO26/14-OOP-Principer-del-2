@@ -11,4 +11,7 @@
   <Project Path="10 Kasta egna undantag (ArgumentException)/10 Kasta egna undantag (ArgumentException).csproj" />
   <Project Path="11 Skapa en egen undantagsklass (SaldoSaknasException)/11 Skapa en egen undantagsklass (SaldoSaknasException).csproj" />
   <Project Path="12 Tillämpa det egna undantaget/12 Tillämpa det egna undantaget.csproj" />
+  <Project Path="13 Stark sammanhållning (High Cohesion)/13 Stark sammanhållning (High Cohesion).csproj" />
+  <Project Path="14 Lös koppling (Loose Coupling) via Interface/14 Lös koppling (Loose Coupling) via Interface.csproj" />
+  <Project Path="15 Flexibel arkitektur vid lös koppling/15 Flexibel arkitektur vid lös koppling.csproj" />
 </Solution>
