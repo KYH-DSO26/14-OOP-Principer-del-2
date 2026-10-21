@@ -6,4 +6,5 @@
   <Project Path="05 Statisk polymorfism (Metodöverlagring)/05 Statisk polymorfism (Metodöverlagring).csproj" />
   <Project Path="06 Verklig hierarki – Betalsystem (Betalning)/06 Verklig hierarki – Betalsystem (Betalning).csproj" />
   <Project Path="07 Verklig hierarki – Användarsystem (Användare)/07 Verklig hierarki – Användarsystem (Användare).csproj" />
+  <Project Path="08 Enkel Try-Catch (Division med noll)/08 Enkel Try-Catch (Division med noll).csproj" />
 </Solution>
