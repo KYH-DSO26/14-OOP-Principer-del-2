@@ -9,4 +9,6 @@
   <Project Path="08 Enkel Try-Catch (Division med noll)/08 Enkel Try-Catch (Division med noll).csproj" />
   <Project Path="09 Fånga generella undantag (FormatExceptions)/09 Fånga generella undantag (FormatExceptions).csproj" />
   <Project Path="10 Kasta egna undantag (ArgumentException)/10 Kasta egna undantag (ArgumentException).csproj" />
+  <Project Path="11 Skapa en egen undantagsklass (SaldoSaknasException)/11 Skapa en egen undantagsklass (SaldoSaknasException).csproj" />
+  <Project Path="12 Tillämpa det egna undantaget/12 Tillämpa det egna undantaget.csproj" />
 </Solution>
